@@ -1,0 +1,11 @@
+[
+    {
+        name: 'quora-benchmark',
+        __parents__: [
+            'default',
+            'data/quora_new',
+        ],
+        __repeat__: 10,
+        eval_file: 'test',
+    }
+]
