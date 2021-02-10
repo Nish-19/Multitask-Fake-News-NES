@@ -1,5 +1,5 @@
 # Misinformation_Multitask_NES
-Code for misinformation detection using multi-task learning from novelty, emotion and sentiment.
+Code for the paper A Multi-task Learning Approach for Fake News Detection: Novelty, Emotion, and Sentiment Lend a Helping Hand.
 
 To replicate the results please follow the following instructions.
 
