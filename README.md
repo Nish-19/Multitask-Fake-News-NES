@@ -70,8 +70,8 @@ Contains the implementations of the baselines along with the supporting files
 ## Co-Ocurence_Matrices - Code for generating the co-ocurence matrices as given in the paper.
 
 ### References: -
-novelty_module - https://github.com/alibaba-edu/simple-effective-text-matching-pytorch
-emotion_module - https://github.com/google-research/google-research/tree/master/goemotions
-Sentiment module - https://github.com/openai/generating-reviews-discovering-sentiment
+novelty_module - https://github.com/alibaba-edu/simple-effective-text-matching-pytorch    
+emotion_module - https://github.com/google-research/google-research/tree/master/goemotions    
+Sentiment module - https://github.com/openai/generating-reviews-discovering-sentiment    
 
 Please Note - Due to constraints on the size of uploading the data and code we aren't able to provide with the pre-generated representations and predictions. Please generate it from scratch using the instructions given in the readme to run the final code.
