@@ -3,7 +3,7 @@ Code for the paper **"A Multi-task Learning Approach for Fake News Detection: No
 
 Rina Kumari*, Nischal Ashok\*, Tirthankar Ghoshal, Asif Ekbal
 
-                                                              \* denotes equal contribution
+\* denotes equal contribution
 
 
 To replicate the results please follow the following instructions.
