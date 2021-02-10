@@ -67,7 +67,8 @@ Contains the implementations of the final proposed model along with the supporti
 ## Baselines (Folder) -
 Contains the implementations of the baselines along with the supporting files
 
-## Co-Ocurence_Matrices - Code for generating the co-ocurence matrices as given in the paper.
+## Co-Ocurence_Matrices (Folder)
+Contains code for generating co-occurance matrices which show the distribution of novelty, emotion and sentiment labels with respect to the ground truth labels.
 
 ### References: -
 novelty_module - https://github.com/alibaba-edu/simple-effective-text-matching-pytorch    
