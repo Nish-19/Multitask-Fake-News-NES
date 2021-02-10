@@ -1,5 +1,10 @@
 # Misinformation_Multitask_NES
-Code for the paper A Multi-task Learning Approach for Fake News Detection: Novelty, Emotion, and Sentiment Lend a Helping Hand.
+Code for the paper "A Multi-task Learning Approach for Fake News Detection: Novelty, Emotion, and Sentiment Lend a Helping Hand."
+<!---
+ - Rina Kumari*, Nischal A\*, Tirthankar Ghoshal, Asif Ekbal
+
+ \* denotes equal contribution
+ -->
 
 To replicate the results please follow the following instructions.
 
