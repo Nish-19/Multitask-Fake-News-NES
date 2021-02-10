@@ -1,10 +1,10 @@
 # Misinformation_Multitask_NES
 Code for the paper "A Multi-task Learning Approach for Fake News Detection: Novelty, Emotion, and Sentiment Lend a Helping Hand."
-<!---
- - Rina Kumari*, Nischal A\*, Tirthankar Ghoshal, Asif Ekbal
+
+ - Rina Kumari*, Nischal Ashok\*, Tirthankar Ghoshal, Asif Ekbal
 
  \* denotes equal contribution
- -->
+
 
 To replicate the results please follow the following instructions.
 
@@ -76,6 +76,8 @@ Contains the implementations of the baselines along with the supporting files
 Contains code for generating co-occurance matrices which show the distribution of novelty, emotion and sentiment labels with respect to the ground truth labels.
 
 ### References: -
+
+Our code is loosely based on the following   
 novelty_module - https://github.com/alibaba-edu/simple-effective-text-matching-pytorch    
 emotion_module - https://github.com/google-research/google-research/tree/master/goemotions    
 Sentiment module - https://github.com/openai/generating-reviews-discovering-sentiment    
