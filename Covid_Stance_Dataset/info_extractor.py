@@ -7,7 +7,7 @@ import tweepy
 # It is CENSORED
 consumer_key = 'Fill_appropriately'
 consumer_key_secret = 'Fill_appropriately'
-access_token = 'Fill_appropriately-QTrAtUHpcsMoJl6VYuaB4N9YqpMnKa'
+access_token = 'Fill_appropriately'
 access_token_secret = 'Fill_appropriately'
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_key_secret)
