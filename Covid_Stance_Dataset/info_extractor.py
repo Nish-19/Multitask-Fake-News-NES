@@ -5,10 +5,10 @@ import tweepy
 
 # Twitter Developer keys here
 # It is CENSORED
-consumer_key = 'PbyAy4eL4j6VzvBWcwoWGZfcC'
-consumer_key_secret = 'd6BbS89kGVP07mRS2PCfIiXsa08NofYb0qHO1d2wJwORUWY3JI'
-access_token = '1137793732558839808-QTrAtUHpcsMoJl6VYuaB4N9YqpMnKa'
-access_token_secret = 'wAk9XfXxdYVnmkJpfjCOTKECPXZ9d17ScOUd27RDMh1Ms'
+consumer_key = 'Fill_appropriately'
+consumer_key_secret = 'Fill_appropriately'
+access_token = 'Fill_appropriately-QTrAtUHpcsMoJl6VYuaB4N9YqpMnKa'
+access_token_secret = 'Fill_appropriately'
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_key_secret)
 auth.set_access_token(access_token, access_token_secret)
