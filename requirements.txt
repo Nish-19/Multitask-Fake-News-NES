@@ -5,6 +5,7 @@ tensorboardX
 json5
 tensorflow
 tensorflow-gpu
+pytorch
 absl-py>=0.8.1
 altair>=3.2.0
 attrs>=19.3.0
