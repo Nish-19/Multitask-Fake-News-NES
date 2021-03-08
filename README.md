@@ -81,5 +81,3 @@ Our code is loosely based on the following
 novelty_module - https://github.com/alibaba-edu/simple-effective-text-matching-pytorch    
 emotion_module - https://github.com/google-research/google-research/tree/master/goemotions    
 Sentiment module - https://github.com/openai/generating-reviews-discovering-sentiment    
-
-Please Note - Due to constraints on the size of uploading the data and code we aren't able to provide with the pre-generated representations and predictions. Please generate it from scratch using the instructions given in the readme to run the final code.
