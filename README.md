@@ -5,6 +5,7 @@ Rina Kumari*, Nischal Ashok\*, Tirthankar Ghoshal, Asif Ekbal
 
 \* denotes equal contribution
 
+Paper accepted at IEEE: International Joint Conference on Neural Networks (IJCNN'21).
 
 To replicate the results please follow the following instructions.
 
